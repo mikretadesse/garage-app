@@ -80,8 +80,6 @@ Abe's Garage App is a **full-stack garage management application** designed to s
 
 ## Author
 
-1.  Mikre Tadesse
+Mikre Tadesse
 
 ---
-
-**Evangadi Networks – Phase 5 Project**
