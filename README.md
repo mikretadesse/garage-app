@@ -62,18 +62,18 @@ Abe's Garage App is a **full-stack garage management application** designed to s
 
    ```bash
    git clone https://github.com/mikretadesse/garage-app.git
-    cd abegaragemainapp
+    cd garage-app
    ```
  2. Backend Setup
 
    ```bash
-   cd Server
+   cd server
    npm install
    nodemon server.js
    ```
 3. Frontend Setup
      ```bash
-   cd ../Client
+   cd ../client
    npm install
    npm run dev
    ```
