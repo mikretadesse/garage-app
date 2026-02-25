@@ -81,5 +81,3 @@ Abe's Garage App is a **full-stack garage management application** designed to s
 ## Author
 
 Mikre Tadesse
-
----
